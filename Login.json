@@ -7,15 +7,6 @@
       "model": "M2102J20SG",
       "serialno": "8024d5",
       "validate": "10/07/2025"
-    },
-    {
-      "android_id": "3f23e9a761d9d0a1",
-      "serialno": "RF8N21C123X",
-      "brand": "samsung",
-      "model": "SM-G980F",
-      "platform": "msm865",
-      "fingerprint": "samsung/beyondx/beyondx:11/RP1A.200720.012/G980FXXU9DUH9:user/release-keys",
-      "validate": "10/07/2025"
-    },
+    }
   ]
 }
